@@ -1,12 +1,22 @@
-# Crystal Vault
+# Home
 
-## Main Areas
+## Areas
 - [[Projects]]
 - [[Knowledge]]
 - [[Development]]
 - [[Work]]
 - [[Life]]
 
-## Quick Notes
+## Main Systems
+- [[Wallet API]]
+- [[Voucher System]]
+- [[Registration Iframe]]
+
+## Infrastructure
+- [[Hosts]]
+- [[Endpoints]]
+- [[Functions]]
+
+## Notes
 - [[Daily Notes]]
 

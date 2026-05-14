@@ -1,16 +1,16 @@
 # Development
 
-## Stack
-- C#
-- ASP.NET
+## Areas
+- [[.NET]]
+- [[SQL]]
+- [[DevOps]]
+
+## Technologies
+- ASP.NET Core
 - Blazor
 - MariaDB
 - SQL Server
-
-## Topics
-- [[Logging]]
-- [[IdentityServer]]
-- [[Worker Services]]
+- Docker
 
 Back to [[Home]]
 
